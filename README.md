@@ -4,7 +4,7 @@
 
 Meie rühmatöö eesmärk on kavandada 5.–6. klassi õpilastele mobiilne õpikeskus, mis aitab leida õppeainete digikeskkondi ja nende linke ning planeerida koolitöid. Projekt lähtub taustauuringust, õpilaste persoonadest ja kasutusstsenaariumidest.
 
-**Rühm:** Liis Enson, Getter Hiiesalu, Jane Helandi ja Karoliyna Pekkenen.
+**Rühm:** [Liis Enson](https://informaatikaopetajaliis.wordpress.com/avaleht/), [Getter Hiiesalu](https://getterimagistriope.wordpress.com/), [Jane Helandi](https://janeinformaatika.lovable.app/) ja Karoliyna Pekkenen.
 
 ## Prototüüp
 
@@ -19,8 +19,9 @@ Prototüüp on kavand. Taustauuringus õpilased tõid esile keskkondade leidmise
 | Taustauuring | Tehtud — 79 viienda ja kuuenda klassi õpilase vastused on kokku võetud |
 | Persoonad | Tehtud — Markus ja Eliise |
 | Stsenaariumid | Tehtud — neli kasutusstsenaariumi |
-| Prototüüp | Esmane versioon valmis; järgmine samm on selle vastavuse ülevaatamine ja testimine |
-| Töövahendite võrdlus, prototüübi testimine ja esitlus | Järgmised tööd; täpne seis kinnitada rühmas |
+| Prototüüp | Esmane versioon valmis; ülevaatus ja kasutajakatse tuleb dokumenteerida |
+| Töövahendite võrdlus | Tähtaeg 4.12.2026 |
+| Esitlus ja lõppkokkuvõte | Koostatakse pärast prototüübi ülevaatamist ja katsetamist |
 
 ## Dokumentatsioon
 
@@ -30,15 +31,16 @@ Prototüüp on kavand. Taustauuringus õpilased tõid esile keskkondade leidmise
 - [Ajakava](./WIKI/ajakava-%C3%BCldine.md)
 - [Sprindi ajakava](./WIKI/ajakava-sprindid.md)
 - [Planeeritavad ülesanded](./WIKI/planeeritavad-issued.md)
+- [Ülesannete tööjaotus ja prototüübi katsetamise näidis](./WIKI/prototüübi-testimine-ja-tööjaotus.md)
 - [Projekti dokumentatsiooni avaleht](./WIKI/README.md)
 
 ## Töökorraldus
 
-- [GitHubi ülesanded (Issues)](https://github.com/Karoliyna/minu-opikeskkonnad/issues)
-- [Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1)
-- [Tähtajad ehk sprindid (Milestones)](https://github.com/Karoliyna/minu-opikeskkonnad/milestones)
+- [GitHubi ülesanded (Issues)](https://github.com/Karoliyna/minu-opikeskkonnad/issues) kirjeldavad töid ja nende eestvedajaid.
+- [Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1) näitab töö edenemist.
+- [Tähtajad ehk sprindid (Milestones)](https://github.com/Karoliyna/minu-opikeskkonnad/milestones) rühmitavad tööetappe.
 
-Rühmas täpsustame ülesannete vastutajad ning kuupäevad. Uuendame tahvlit töö edenemisel.
+Tööjaotus on ettepanek. Ülesannete eest vastutajad kinnitab rühm ning uuendab tahvlit töö tegeliku edenemise järgi.
 
 ## Projekti piirid
 
