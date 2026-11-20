@@ -1,47 +1,49 @@
-# Sprindi ajakava
+# Kahenädalased etapid ja vahe-eesmärgid
 
-Ajakava seob tehtud projekti etapid GitHubi issue’de ja Kanban-tahvliga. Tähtajad on rühma töökorralduse kokkulepe.
+Iga etapp kestab ligikaudu kaks nädalat ning lõpeb konkreetse vahetulemuse üleandmisega. Õpetaja määrab täpsed kuupäevad rühma kursuse alguse järgi. GitHubi Milestone’ide due date’id täidetakse siis, kui kalender on teada.
 
-## Sprint 1 – Taustauuring ja persoonad
+## Etapp 1 – Käivitamine ja eesmärk (nädalad 1–2)
 
-- **Tähtaeg:** 30.10.2026
-- **Eesmärk:** mõista õpilaste vajadusi ja sõnastada kasutajapersoonad.
-- **Ülesanded:** taustauuringu ja küsitluse tulemuste analüüs; persoonade koostamine.
-- **Seis:** tehtud.
-- **Tulemus:** 79 viienda ja kuuenda klassi õpilase vastuseid kajastav taustauuring ning persoonad Markus ja Eliise.
+- **Eesmärk:** mõista lähteülesannet, rühma rolli ja kolme aine lõimingut.
+- **Ülesanded:** rühma kokkulepe; probleemi sõnastamine; sihtrühma ja algse kasutajaeesmärgi määramine; informaatika ning kahe teise aine õpitulemuste otsimine.
+- **Vahe-eesmärk:** projekti ühe lehe kirjeldus, rollide jaotus ning õpitulemuste tabeli mustand.
+- **Ülevaatusküsimus:** kas probleem on kasutaja vaatenurgast selge ja kõik kolm õppeainet annavad hinnatava panuse?
 
-## Sprint 2 – Stsenaariumid
+## Etapp 2 – Uurimine ja vajadused (nädalad 3–4)
 
-- **Tähtaeg:** 07.11.2026
-- **Eesmärk:** kirjeldada, kuidas persoonad õpikeskust kasutaksid.
-- **Ülesanded:** kasutusstsenaariumide koostamine ja vajaduste sidumine prototüübi funktsioonidega.
-- **Seis:** tehtud.
-- **Tulemus:** neli kasutusstsenaariumi.
+- **Eesmärk:** koguda sihtrühma kohta piisavalt infot disainiotsuste tegemiseks.
+- **Ülesanded:** uuringuplaan, õpetaja luba, küsimuste katsetamine, küsitlus/intervjuu/vaatlus, vastuste kokkuvõte, vajaduste ja piirangute sõnastamine.
+- **Vahe-eesmärk:** nimedeta tulemused, vähemalt kolm kasutajavajadust ja märge selle kohta, mida andmed ei tõesta.
+- **Ülevaatusküsimus:** kas väited põhinevad andmetel või on selgelt märgitud oletusena?
 
-## Sprint 3 – Töövahendi valik ja prototüübi ülevaatus
+## Etapp 3 – Persoonad ja stsenaariumid (nädalad 5–6)
 
-- **Töövahendi võrdluse tähtaeg:** **04.12.2026**
-- **Eesmärk:** põhjendada prototüüpimise vahendi valikut ning kontrollida prototüübi seost varasema analüüsiga.
-- **Ülesanded:** töövahendite võrdlus (Issue #1); planeerimisvajaduste täpsustamine (Issue #2); prototüübi kontroll persoonade ja stsenaariumide abil (Issue #4).
-- **Eestvedajad:** Liis – töövahendite võrdlus; Getter – vajaduste täpsustamine; Karoliyna – prototüübi ülevaatus.
-- **Seis:** prototüüp on olemas; ülevaatuse ja võrdluse dokumendid täiendamisel.
-- **Tulemus:** töövahendi võrdlus, kontrollitud vajadused ning prototüübi ülevaatuse tähelepanekud.
+- **Eesmärk:** muuta kasutajate vajadused kavandamise lähtealuseks.
+- **Ülesanded:** vähemalt kaks enda persoonat, vähemalt kolm kasutusstsenaariumi, funktsioonide prioriseerimine ning esimeste valmiskriteeriumide kirjutamine.
+- **Vahe-eesmärk:** ülevaadatud persoonad ja stsenaariumid ning nimekiri „peab olema / võiks olla“ funktsioonidest.
+- **Ülevaatusküsimus:** kas iga kavandatav funktsioon toetab mõnda kasutaja eesmärki?
 
-## Sprint 4 – Katsetamine ja esitlemine
+## Etapp 4 – Kavandamine ja esimene prototüüp (nädalad 7–8)
 
-- **Tähtaeg:** 05.12.2026
-- **Eesmärk:** täiendada prototüüpi tegeliku kasutajate tagasiside põhjal ja tutvustada projekti tulemust.
-- **Ülesanded:** vajadusel koostada õpikeskuse skeem (Issue #3); katsetada prototüüpi sihtrühma õpilastega ja teha põhjendatud parandused (Issue #5); koostada esitlus ja lõppkokkuvõte (Issue #6).
-- **Eestvedajad:** Jane – struktuuri skeem ja katse juhtimine; Karoliyna – esitluse koordineerimine; kõik annavad oma osa.
-- **Seis:** planeeritud. Katsetamise näidis on ainult vormistamise abiks; see tuleb asendada päris katse tähelepanekutega.
-- **Tulemus:** päris katse märkmed, ajakohane prototüüp, esitlus ja projekti lõppkokkuvõte.
+- **Eesmärk:** teha lahenduse ülesehitus nähtavaks ja valida sobiv töövahend.
+- **Ülesanded:** infoarhitektuuri skeem, paber-/ekraanikavandid, vähemalt kahe töövahendi võrdlus ja valiku põhjendus, klikitava prototüübi põhivaated.
+- **Vahe-eesmärk:** rühm saab prototüübis vähemalt ühe kasutusstsenaariumi algusest lõpuni läbi mängida.
+- **Ülevaatusküsimus:** kas kasutaja saab aru, kus ta on ja mida järgmisena teha?
 
-## Rühma kokkulepped
+## Etapp 5 – Katsetamine ja parandused (nädalad 9–10)
 
-- Tööjaotus on ettepanek, mille rühm kinnitab ja vajadusel muudab.
-- Kanban-tahvli kaarte liigutatakse töö tegeliku edenemise järgi.
-- GitHubi assignee lisatakse siis, kui rühmaliige on repositooriumi kaastöötaja ja tema kasutajanimi on teada.
-- [GitHubi Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1)
-- [Issues ehk ülesanded](https://github.com/Karoliyna/minu-opikeskkonnad/issues)
-- [Ülesannete tööjaotus ja prototüübi katsetamise näidis](./protot%C3%BC%C3%BCbi-testimine-ja-t%C3%B6%C3%B6jaotus.md)
-- [Valminud prototüüp](https://52fe04b3-d262-4f6f-8f2b-8e88ba90e257.web.bilt.me/)
+- **Eesmärk:** kontrollida prototüüpi päris kasutajatega ja täiendada seda tõendite põhjal.
+- **Ülesanded:** õpetajaga kooskõlastatud katse, ülesannete andmine osalejale, nimedeta tähelepanekud, takistuste prioriseerimine ja parandatud prototüüp.
+- **Vahe-eesmärk:** katse kokkuvõte, vähemalt kolm tähelepanekut või selgitus, miks neid vähem oli, ning muudatuste loend.
+- **Ülevaatusküsimus:** milline muudatus tulenes kasutaja käitumisest või tagasisidest?
+
+## Etapp 6 – Esitlus ja refleksioon (nädalad 11–12)
+
+- **Eesmärk:** esitleda lahendust ja näidata, mida rühm õppis.
+- **Ülesanded:** prototüübi lõplik kontroll, dokumentatsiooni korrastamine, kolme aine õpitulemuste tõendite koondamine, esitluse ja refleksiooni koostamine.
+- **Lõpp-eesmärk:** selge probleem, uurimistõendid, persoonad, stsenaariumid, prototüüp, päris katse ja põhjendatud parandused.
+- **Ülevaatusküsimus:** kas saate iga õpitulemuse kohta näidata konkreetset tõendit?
+
+## Kalendritähtajad
+
+Kursuse juhendaja lisab iga etapi lõpu täpse kuupäeva Milestone’i. Rühm kannab sama kuupäeva vastavatele Issue’itele ja hoiab Kanban-tahvli ajakohasena.
