@@ -1,48 +1,16 @@
-# Järgmised GitHubi issue’d
+# Planeeritavad GitHubi issue’d
 
-Taustauuring, persoonad ja stsenaariumid on valmis ning esmane prototüüp on loodud. Järgnevad issue’d keskenduvad prototüübi sidumisele aineülesande nõuetega, kasutajatega katsetamisele ja tulemuse esitlemisele.
+Selles failis on järgmised projektitööd. Üksikasjalikud juhised ja rühma pakutud eestvedajad on kirjas failis [Ülesannete tööjaotus ja prototüübi katsetamise näidis](./protot%C3%BC%C3%BCbi-testimine-ja-t%C3%B6%C3%B6jaotus.md). Vastutajad on rühma kokkuleppe ettepanek; GitHubi assignee saab määrata, kui liikmel on repositooriumis kaastöötaja ligipääs.
 
-## 1. Dokumenteeri prototüüpimise töövahendi valik
+| Issue | Ülesanne | Eestvedaja | Valmimise tunnus |
+|---|---|---|---|
+| [#1](../issues/1) | Prototüüpimise töövahendi valik | Liis | Võrdlus ja valiku põhjendus dokumenteeritud; tähtaeg **04.12.2026**. |
+| [#2](../issues/2) | Õpilaste planeerimisvajaduste täpsustamine | Getter | Vajadused, nende tõendus ja lisakontrolli vajadus kirjas. |
+| [#3](../issues/3) | Õpikeskuse struktuuri skeem | Jane | Skeem on prototüübiga kooskõlas. Toetav/vajaduspõhine ülesanne. |
+| [#4](../issues/4) | Prototüübi vastavus persoonadele ja stsenaariumidele | Karoliyna | Neli stsenaariumi ja kaks persoonat läbi kontrollitud; takistused kirjas. |
+| [#5](../issues/5) | Prototüübi katsetamine ja parandamine | Jane juhib; kõik osalevad | Tegelikud tähelepanekud, tehtud parandused ja põhjendused dokumenteeritud. |
+| [#6](../issues/6) | Esitlus ja lõppkokkuvõte | Karoliyna koordineerib; kõik panustavad | Esitlus ja kokkuvõte üle vaadatud; tulemused ja prototüüp esitatud. |
 
-- **Tüüp:** ülesanne
-- **Kirjeldus:** Võrdle vähemalt kahte prototüüpimise töövahendit ning selgita, millisega prototüüp loodi. Arvesta mobiilivaadete kavandamise võimalusi, kasutamise lihtsust ja prototüübi jagamist.
-- **Valmis, kui:** võrdlus ja valiku põhjendus on dokumentatsioonis.
-- **Tähtaeg:** 20.11.2026 (aineülesandes märgitud tähtaeg; kinnitage rühmas)
+**Tähtajad:** töövahendite võrdlus 04.12.2026; projekti lõppetapp 05.12.2026. Sprintide täpsem kirjeldus on [sprindi ajakavas](./ajakava-sprindid.md).
 
-## 2. Täpsusta õpilaste planeerimisvajadusi
-
-- **Tüüp:** uurimisülesanne
-- **Kirjeldus:** Kontrolli õpilastega, kas nad vajavad äpis ülesannete ja tähtaegade märkimist ning suuremate tööde väiksemateks sammudeks jagamist. See vajadus põhineb praegu õpetaja tähelepanekutel, mitte esialgse küsitluse otsesel tulemusel.
-- **Valmis, kui:** küsimused, vastused ja nende põhjal tehtud otsused on dokumenteeritud; vajadusel täienda Eliise persoonat või stsenaariume.
-
-## 3. Koosta õpikeskuse struktuuri skeem
-
-- **Tüüp:** ülesanne (ainejuhendis valikuline)
-- **Kirjeldus:** Näita, kuidas kasutaja liigub prototüübis avalehe, õppeainete linkide, juhendite ja planeerija vahel.
-- **Valmis, kui:** skeem kajastab prototüübi tegelikke vaateid ja navigeerimist.
-- **Tähtaeg:** 05.12.2026
-
-## 4. Kontrolli prototüübi vastavust persoonadele ja stsenaariumidele
-
-- **Tüüp:** ülevaatus
-- **Kirjeldus:** Vaata valminud prototüüp läbi koos Markuse ja Eliise persoonade ning nelja stsenaariumiga. Kontrolli, kas õpilane leiab õppeaine lingi, saab abi keskkonna kasutamisel ning näeb ülesannete/tähtaegade planeerimise võimalust.
-- **Valmis, kui:** iga stsenaariumi kohta on kirjas, kas seda saab prototüübis läbi mängida; puuduolevad või arusaamatud kohad on loetletud.
-- **Prototüüp:** https://52fe04b3-d262-4f6f-8f2b-8e88ba90e257.web.bilt.me/
-
-## 5. Katseta prototüüpi õpilastega ja tee parandused
-
-- **Tüüp:** ülesanne
-- **Kirjeldus:** Palu vähemalt kahel sihtrühma õpilasel prototüüpi proovida. Anna neile stsenaariumipõhised ülesanded ning jälgi, kus nad hätta jäävad või vajavad juhist.
-- **Valmis, kui:** katsetamise tähelepanekud on kirjas ja vähemalt üks parandus on tehtud või põhjendatult tegemata jäetud.
-- **Tähtaeg:** enne lõppesitlust 05.12.2026
-
-## 6. Koosta esitlus ja lõppkokkuvõte
-
-- **Tüüp:** ülesanne
-- **Kirjeldus:** Koonda probleemi taust, küsitluse tulemused ja piirangud, persoonad, stsenaariumid, prototüübi valmimise protsess, kasutajakatsetus ning järeldused.
-- **Valmis, kui:** esitlus tutvustab prototüüpi ja selgitab, kuidas see vastab kasutajate vajadustele; dokumentatsioonis on lõppkokkuvõte.
-- **Tähtaeg:** 05.12.2026
-
-## Töökorraldus
-
-Loo iga ülesande kohta eraldi GitHubi issue ja lisa see projekti tahvlile. Rühmas määrake vastutajad ja täpsed kuupäevad. Liigutage ülesandeid tahvlil vastavalt edenemisele.
+**Katsetamise näidis:** prototüübi kasutuskatse kohta on eraldi näidis, mis on selgelt tähistatud kujuteldava harjutusnäitena. Esitamisel asendage see päriselt tehtud katse anonymiseeritud tulemustega.
