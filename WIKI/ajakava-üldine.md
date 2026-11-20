@@ -1,28 +1,22 @@
 # Ajakava
 
-Pane siia kirja oma projekti peamised etapid ja nende hinnanguline kestus.  
-Vajadusel muuda tabelit töö käigus.
+Ajakava lähtub kursuse rühmatöö etappidest. Esimesed kolm etappi on tehtud; neljanda etapi ja lõputöö seis tuleb Kanbani tahvlil jooksvalt ajakohastada.
 
-| Etapp | Mida selles etapis tehakse? | Kestvus |
-|---|---|---|
-| Etapp 1 |  |  |
-| Etapp 2 |  |  |
-| Etapp 3 |  |  |
-| Etapp 4 |  |  |
-| Etapp 5 |  |  |
-| Kokku |  |  |
+| Etapp | Tegevused | Tähtaeg / kestus | Seis |
+|---|---|---|---|
+| 1. Taustauuring | Probleemi sõnastamine, koolitööks kasutatavate digiõpikeskkondade kaardistus ja õpilasküsitlus. | 30.10.2026 | Tehtud |
+| 2. Persoonad | Sihtrühma ja kasutajavajaduste kirjeldamine uuringutulemuste põhjal. | 30.10.2026 | Tehtud |
+| 3. Stsenaariumid | Nelja kasutusolukorra kirjeldamine Markuse ja Eliise vajaduste järgi. | 07.11.2026 | Tehtud |
+| 4. Töövahendite valik ja võrdlus | Prototüüpimiseks sobivate vahendite võrdlemine ning valiku põhjendamine. | 20.11.2026 | Järgmine etapp; staatus täpsustada |
+| 5. Skeem, prototüüp ja esitlus | Õpikeskkonna skeemi koostamine (valikuline), prototüübi loomine, kasutajatega katsetamine, parandused ja esitlus. | 05.12.2026 | Kavandatud |
 
-## Näited võimalikest etappidest
+## Töö käigus kontrollitavad küsimused
 
-- idee ja planeerimine
-- rollide jagamine
-- analüüs
-- loomine või arendus
-- testimine ja parandused
-- kokkuvõte ja refleksioon
+- Kas prototüüpimise töövahend toetab mobiilivaate loomist ja kasutajakatset?
+- Kuidas uurida neljanda klassi õpilaste vajadusi, sest esialgne küsitlus neid ei hõlmanud?
+- Kuidas koguda lisatõendeid õppimise planeerimise vajaduse kohta?
+- Milline prototüübi ulatus on tähtajaks realistlik?
 
-## Märkused
+## Allikas
 
-- Etappide nimed võite ise valida vastavalt oma projektile.
-- Kestvuse võib märkida päevades, nädalates või tundides.
-- Kui plaan töö käigus muutub, uuendage tabelit.
+Kursuse rühmatöö etapid ja tähtajad: [Õpikeskkonnad ja võrgustatud õpe – ülesanded](https://opikeskkonnad.ee/ulesanded/). Kuupäevad tuleb uuendada, kui õppejõud muudab ajakava.
