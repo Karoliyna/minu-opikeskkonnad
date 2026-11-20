@@ -1,16 +1,61 @@
-# Planeeritavad GitHubi issue’d
+# Projektitöö backlog
 
-Selles failis on järgmised projektitööd. Üksikasjalikud juhised ja rühma pakutud eestvedajad on kirjas failis [Ülesannete tööjaotus ja prototüübi katsetamise näidis](./protot%C3%BC%C3%BCbi-testimine-ja-t%C3%B6%C3%B6jaotus.md). Vastutajad on rühma kokkuleppe ettepanek; GitHubi assignee saab määrata, kui liikmel on repositooriumis kaastöötaja ligipääs.
+Siin on projekti tööde ülevaade. Iga töö on eraldi GitHubi issue: avage see, lugege valmimise tingimust, leppige kokku vastutaja ja vajadusel lisage kommentaaris tähtaeg. Liigutage kaart Kanban-tahvlil vastavalt edenemisele. Kui üks issue on liiga suur, jagage see väiksemateks alamülesanneteks.
 
-| Issue | Ülesanne | Eestvedaja | Valmimise tunnus |
-|---|---|---|---|
-| [#1](https://github.com/Karoliyna/minu-opikeskkonnad/issues/1) | Prototüüpimise töövahendi valik | Liis | Võrdlus ja valiku põhjendus dokumenteeritud; tähtaeg **04.12.2026**. |
-| [#2](https://github.com/Karoliyna/minu-opikeskkonnad/issues/2) | Õpilaste planeerimisvajaduste täpsustamine | Getter | Vajadused, nende tõendus ja lisakontrolli vajadus kirjas. |
-| [#3](https://github.com/Karoliyna/minu-opikeskkonnad/issues/3) | Õpikeskuse struktuuri skeem | Jane | Skeem on prototüübiga kooskõlas. Toetav/vajaduspõhine ülesanne. |
-| [#4](https://github.com/Karoliyna/minu-opikeskkonnad/issues/4) | Prototüübi vastavus persoonadele ja stsenaariumidele | Karoliyna | Neli stsenaariumi ja kaks persoonat läbi kontrollitud; takistused kirjas. |
-| [#5](https://github.com/Karoliyna/minu-opikeskkonnad/issues/5) | Prototüübi katsetamine ja parandamine | Jane juhib; kõik osalevad | Tegelikud tähelepanekud, tehtud parandused ja põhjendused dokumenteeritud. |
-| [#6](https://github.com/Karoliyna/minu-opikeskkonnad/issues/6) | Esitlus ja lõppkokkuvõte | Karoliyna koordineerib; kõik panustavad | Esitlus ja kokkuvõte üle vaadatud; tulemused ja prototüüp esitatud. |
+Tähtajad on jaotatud kuueks kahenädalaseks etapiks. Õpetaja lisab kursuse alguse põhjal kalendritähtajad.
 
-**Tähtajad:** töövahendite võrdlus 04.12.2026; projekti lõppetapp 05.12.2026. Sprintide täpsem kirjeldus on [sprindi ajakavas](./ajakava-sprindid.md).
+## Etapp 1 – Käivitamine ja eesmärk (nädalad 1–2)
 
-**Katsetamise näidis:** prototüübi kasutuskatse kohta on eraldi näidis, mis on selgelt tähistatud kujuteldava näitena. Esitamisel asendage see päriselt tehtud katse anonüümitud tulemustega.
+- [#1 Moodustage rühm ja leppige töökorralduses kokku](https://github.com/Karoliyna/minu-opikeskkonnad/issues/1)
+- [#2 Sõnastage probleem ja valige sihtkasutaja](https://github.com/Karoliyna/minu-opikeskkonnad/issues/2)
+- [#3 Valige kolm õppeainet ja kaardistage õpitulemused](https://github.com/Karoliyna/minu-opikeskkonnad/issues/3)
+
+**Etapi tulemus:** rühm, kokkulepped, probleemi kirjeldus ning informaatika ja kahe muu aine õpitulemuste esmane tabel.
+
+## Etapp 2 – Kasutajate uurimine (nädalad 3–4)
+
+- [#4 Koostage kasutajauuringu plaan ja küsimused](https://github.com/Karoliyna/minu-opikeskkonnad/issues/4)
+- [#5 Tehke kasutajauuring ja koguge vastused nimedeta](https://github.com/Karoliyna/minu-opikeskkonnad/issues/5)
+- [#6 Analüüsige tulemusi ja sõnastage kasutajavajadused](https://github.com/Karoliyna/minu-opikeskkonnad/issues/6)
+
+**Etapi tulemus:** päriselt kogutud anonüümsed vastused, kokkuvõte ja tõenditega seotud vajadused.
+
+## Etapp 3 – Persoonad ja lahenduse plaan (nädalad 5–6)
+
+- [#7 Looge oma persoonad uurimistulemuste põhjal](https://github.com/Karoliyna/minu-opikeskkonnad/issues/7)
+- [#8 Kirjutage kasutusstsenaariumid persoonade põhjal](https://github.com/Karoliyna/minu-opikeskkonnad/issues/8)
+- [#9 Tõlkige vajadused prototüübi nõueteks](https://github.com/Karoliyna/minu-opikeskkonnad/issues/9)
+- [#10 Määrake prototüübi ulatus ja privaatsuspiirid](https://github.com/Karoliyna/minu-opikeskkonnad/issues/10)
+
+**Etapi tulemus:** vähemalt kaks enda persoonat, stsenaariumid, prioriseeritud nõuded ja prototüübi piirid.
+
+## Etapp 4 – Kavandamine ja prototüüp (nädalad 7–8)
+
+- [#11 Võrrelge prototüüpimise töövahendeid](https://github.com/Karoliyna/minu-opikeskkonnad/issues/11)
+- [#12 Joonistage õpikeskuse struktuuriskeem](https://github.com/Karoliyna/minu-opikeskkonnad/issues/12)
+- [#13 Visandage mobiilivaadete esimesed kavandid](https://github.com/Karoliyna/minu-opikeskkonnad/issues/13)
+- [#14 Kontrollige kavandeid persoonade ja nõuete järgi](https://github.com/Karoliyna/minu-opikeskkonnad/issues/14)
+- [#15 Looge esimene klikitav prototüüp](https://github.com/Karoliyna/minu-opikeskkonnad/issues/15)
+- [#16 Kontrollige prototüübi loetavust ja ligipääsetavust](https://github.com/Karoliyna/minu-opikeskkonnad/issues/16)
+
+**Etapi tulemus:** põhjendatud töövahend, läbimõeldud kavandid ja jagatav klikitav prototüüp.
+
+## Etapp 5 – Katsetamine ja parandamine (nädalad 9–10)
+
+- [#17 Koostage kasutajakatse ülesanded ja vaatlusleht](https://github.com/Karoliyna/minu-opikeskkonnad/issues/17)
+- [#18 Katsetage prototüüpi sihtrühma kasutajatega](https://github.com/Karoliyna/minu-opikeskkonnad/issues/18)
+- [#19 Analüüsige katsetulemusi ja valige parandused](https://github.com/Karoliyna/minu-opikeskkonnad/issues/19)
+- [#20 Täiendage prototüüpi ja märkige muudatused](https://github.com/Karoliyna/minu-opikeskkonnad/issues/20)
+
+**Etapi tulemus:** tegeliku katse nimetud tähelepanekud ja nende põhjal tehtud ning põhjendatud parandused. Kui katset ei saa läbi viia, leppige õpetajaga kokku asendus ega esitage oletusi tulemustena.
+
+## Etapp 6 – Esitlus ja refleksioon (nädalad 11–12)
+
+- [#21 Koondage kolme aine õpitulemuste tõendid](https://github.com/Karoliyna/minu-opikeskkonnad/issues/21)
+- [#22 Tehke lõppkontroll ja korrastage projektifailid](https://github.com/Karoliyna/minu-opikeskkonnad/issues/22)
+- [#23 Kirjutage refleksioon ja kirjeldage igaühe panust](https://github.com/Karoliyna/minu-opikeskkonnad/issues/23)
+- [#24 Koostage projekti esitlus ja prototüübi demo](https://github.com/Karoliyna/minu-opikeskkonnad/issues/24)
+
+**Etapi tulemus:** esitlemiseks valmis prototüüp ja dokumentatsioon, nähtavad õpitulemuste tõendid ning rühma refleksioon.
+
+> Need on näidisülesanded. Rühm võib lisada vajalikke alamülesandeid ja kohandada neid õpetajaga kokkuleppel. Kasutajauuringus järgige juhendis toodud nõusoleku ja privaatsuse põhimõtteid.
