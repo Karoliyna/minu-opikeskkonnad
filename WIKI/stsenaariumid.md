@@ -1,61 +1,35 @@
-# Stsenaariumid
+# Kasutusstsenaariumid
 
-Need kasutusstsenaariumid kirjeldavad, mida Markus ja Eliise püüavad õpikeskuse abil päriselulistes õppimisolukordades teha. Need aitavad otsustada, milliseid vajadusi prototüüp peab toetama. Stsenaariumid ei määra veel kasutajaliidese täpset kujundust ega tõesta, et kavandatud lahendus töötab.
+Stsenaarium kirjeldab kasutaja eesmärki ja samme, mida ta võiks lahendus kasutamisel ette võtta. Kirjutage see oma persoonade ja uuringutulemuste põhjal.
 
-## Stsenaarium 1: Markus tutvub õpikeskusega
+## Näidisstsenaarium
 
-**Autor: Liis Enson**
+**Persoona:** Markus (õpetlik väljamõeldud näide persoonade lehel).
 
-Markus peab kodus koolitööd alustama, kuid ei mäleta, millises keskkonnas õpetaja materjalid jagas. Ta teab, et kasutab mitut digikeskkonda, aga nende lingid ja nimed lähevad vahel segamini. Ta avab õpikeskuse prototüübi ja uurib, millist infot sinna saab lisada ning kuidas see võiks aidata tal õppimiseks vajalikke kohti leida. Markus saab aru, et ta võib koondada ainepõhised lingid ühte kohta, ning mõtleb, milliseid enda kasutatavaid linke ta lisaks.
+**Olukord:** Markus soovib kodus matemaatika ülesannet alustada, aga ei mäleta, millises digikeskkonnas töö asub.
 
-**Soovitud tulemus:** Markus mõistab, milleks õpikeskus kasulik võiks olla ja millist tuge ta esimesel kasutuskorral vajab.
+**Eesmärk:** leida matemaatika keskkond ja kontrollida, kas ülesandel on tähtaeg.
 
-**Tagasisideküsimused:**
-- Kas esmane tutvumine aitab Markusel aru saada, milleks õpikeskus vajalik on?
-- Millist infot või juhendamist võiks ta esimesel kasutuskorral vajada?
+**Kasutusvoog:** Markus avab õpikeskuse → valib „Õppeained“ → valib „Matemaatika“ → avab lingi → naaseb õpikeskusse ja kontrollib ülesannete vaates tähtaega.
 
-## Stsenaarium 2: Markus lisab õppeainete lingid
+**Kavandamisjäreldus:** õppeaine link peab olema leitav aine nime järgi ning kasutaja peab saama ülesannete vaatesse tagasi liikuda.
 
-**Autor: Getter Hiiesalu**
+See on näide, mitte kasutajauuringu tulemus. Teie loote oma persoonade põhjal vähemalt kolm stsenaariumi.
 
-Pärast õpikeskusega tutvumist otsustab Markus selle enda vajaduste järgi seadistada. Ta kasutab koolitööks mitut keskkonda ning tahab, et vajalikud lingid oleksid hõlpsasti leitavad. Markus valib õppeained, millega õpikeskuses alustada, lisab iga aine juurde sobiva keskkonna lingi ning kontrollib, kas see on õige aine all. Ta avab lingi, et veenduda, et jõuab vajalikku kohta. Edaspidi saab ta õppimist alustades valida aine ja avada selle juurde lisatud keskkonna.
+## Stsenaariumi mall
 
-**Soovitud tulemus:** Markus leiab vajaliku lingi õige õppeaine alt ega pea seda eri märkmetest või vestlustest otsima.
+- **Persoona:**
+- **Olukord:** millal/miks kasutaja rakenduse avab?
+- **Eesmärk:** mida ta tahab lõpetada?
+- **Sammud:** mida ta prototüübis teeb?
+- **Võimalik takistus:** kus võib tekkida segadus?
+- **Vajalik info või funktsioon:** mida lahendus peab näitama/tegema?
+- **Õnnestumise tunnus:** mille järgi teame, et kasutaja saavutas eesmärgi?
+- **Seos uuringutõendiga:** milline vajadus selle taga on?
 
-**Tagasisideküsimused:**
-- Kas õppeainete kaupa linkide lisamine aitaks Markusel õige keskkonna kiiremini üles leida?
-- Kuidas võiks õpikeskus aidata vältida lingi lisamist vale aine juurde?
+## Teie ülesanne
 
-## Stsenaarium 3: Eliise kavandab õppimist märkmikus
-
-**Autor: Jane Helandi**
-
-Eliisel on tulemas mitu kooliga seotud tegevust ja üks suurem õppetöö, millega ta peaks varakult alustama. Kui kõik ülesanded ja tähtajad on korraga meeles, ei ole tal lihtne otsustada, mida esimesena teha. Eliise avab õpikeskuse märkmiku ja paneb kirja koolitööd ning muud õppimisega seotud tegevused. Suurema töö puhul märgib ta üles väiksemad sammud. Töö edenedes vaatab ta, mis on juba tehtud ja millega tuleb veel tegeleda.
-
-**Soovitud tulemus:** Eliisel tekib enda koostatud plaan ning ta saab jälgida töö edenemist.
-
-**Tagasisideküsimused:**
-- Mida sooviks õpilane märkmikku koolitöö või muude tegevuste kohta kirja panna?
-- Kuidas tahaks ta jälgida, mis on tehtud ja mis ootab veel ees?
-
-## Stsenaarium 4: Eliise leiab lingi ja vaatab tähtaega
-
-**Autor: Karoliyna Pekkenen**
-
-Eliise tahab kodus alustada ühe õppeaine ülesandega. Ta ei ole kindel, millist õpikeskkonda selle tegemiseks vaja läheb, ning tahab meelde tuletada, mis ajaks töö valmis peab olema. Eliise avab õpikeskuses vastava õppeaine ja leiab vajaliku lingi. Seejärel vaatab ta ülesande tähtaega ja seda, kui palju aega esitamiseni on jäänud. Ta otsustab, millise tööosaga täna tegeleb, ning avab vajaliku õpikeskkonna.
-
-**Soovitud tulemus:** Eliise leiab lingi ja tähtaja ühest kohast ning saab kiiremini töö alustamisele keskenduda.
-
-**Tagasisideküsimused:**
-- Millist infot sooviks õpilane ülesande ja tähtaja kohta enne töö alustamist näha?
-- Mis aitaks tal otsustada, millise ülesandega kõigepealt tegeleda?
-
-## Ühine märkus katsetamiseks
-
-Stsenaariumid kirjeldavad kavandatud kasutusolukordi. Kasutajakatsetes tuleb uurida, kas õpilased mõistavad õppeainete ja linkide seost, oskavad töid väiksemateks sammudeks jagada ning saavad tähtajateabe põhjal otsustada, mida järgmisena teha. Planeerimisvajaduse kohta tuleb koguda lisatõendeid, sest esialgne küsitlus seda otseselt ei uurinud.
-
-## Seotud materjalid
-
-- [Taustauuring](https://karoliynapekkenen.wordpress.com/2026/10/30/ruhmatoo-taustauuring/)
-- [Persoonad](https://karoliynapekkenen.wordpress.com/2026/10/30/ruhmatoo-persoonad/)
-- [Stsenaariumide algne postitus](https://karoliynapekkenen.wordpress.com/2026/11/07/ruhmatoo-stsenaariumid/)
+1. Looge vähemalt kolm stsenaariumi, mis katavad erinevaid vajadusi.
+2. Kirjeldage igas stsenaariumis üht kasutaja eesmärki.
+3. Kontrollige, et vähemalt üks stsenaarium käsitleks õppeaine lingi leidmist ja üks koolitöö või tähtaja jälgimist.
+4. Kasutage stsenaariume prototüübi kavandamisel ja hiljem kasutuskatse ülesannete koostamisel.
