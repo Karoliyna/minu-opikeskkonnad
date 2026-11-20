@@ -1,22 +1,20 @@
-# Ajakava
+# Üldine tööetappide ajakava
 
-Ajakava lähtub kursuse rühmatöö etappidest. Esimesed kolm etappi on tehtud; neljanda etapi ja lõputöö seis tuleb Kanbani tahvlil jooksvalt ajakohastada.
+Ajakava on kavandatud 12 nädalaks. Iga kahe nädala lõpus toimub vahe-esitlus või õpetaja tagasiside. Kursuse alguskuupäeva ja täpsed kalendritähtajad lisab õpetaja.
 
-| Etapp | Tegevused | Tähtaeg / kestus | Seis |
+| Etapp | Nädalad | Töö | Esitatav vahetulemus |
 |---|---|---|---|
-| 1. Taustauuring | Probleemi sõnastamine, koolitööks kasutatavate digiõpikeskkondade kaardistus ja õpilasküsitlus. | 30.10.2026 | Tehtud |
-| 2. Persoonad | Sihtrühma ja kasutajavajaduste kirjeldamine uuringutulemuste põhjal. | 30.10.2026 | Tehtud |
-| 3. Stsenaariumid | Nelja kasutusolukorra kirjeldamine Markuse ja Eliise vajaduste järgi. | 07.11.2026 | Tehtud |
-| 4. Töövahendite valik ja võrdlus | Prototüüpimiseks sobivate vahendite võrdlemine ning valiku põhjendamine. | 20.11.2026 | Järgmine etapp; staatus täpsustada |
-| 5. Skeem, prototüüp ja esitlus | Õpikeskkonna skeemi koostamine (valikuline), prototüübi loomine, kasutajatega katsetamine, parandused ja esitlus. | 05.12.2026 | Kavandatud |
+| 1. Käivitamine | 1–2 | Moodustage rühm, jagage rollid, mõistke lähteülesannet, sõnastage probleem ning valige kolme õppeaine õpitulemused. | Projekti lühikirjeldus, rollid, esimene õpitulemuste tabel |
+| 2. Kasutajate uurimine | 3–4 | Koostage õpetajaga kooskõlastatud uuringuplaan, koguge nimedeta infot ja analüüsige tulemusi. | Uuringu kokkuvõte, kasutajavajadused ja piirangud |
+| 3. Persoonad ja stsenaariumid | 5–6 | Looge uurimistulemuste põhjal vähemalt kaks persoonat ning vähemalt kolm stsenaariumi. | Persoonad, stsenaariumid, esialgsed nõuded |
+| 4. Kavandamine | 7–8 | Võrrelge prototüüpimise vahendeid, tehke infoarhitektuur ja ekraanikavandid. | Töövahendi valiku põhjendus, skeem ja klikitava prototüübi algus |
+| 5. Prototüüp, katsetamine ja parandused | 9–10 | Viige prototüüp kasutatavasse seisu, katsetage õpetaja loal ning tehke tagasiside põhjal parandusi. | Katsemärkmed, muudetud prototüüp ja muudatuste põhjendus |
+| 6. Esitlus ja refleksioon | 11–12 | Koondage dokumentatsioon, õpitulemuste tõendid ja tööprotsessi refleksioon. | Lõppversioon ja esitlus |
 
-## Töö käigus kontrollitavad küsimused
+## Töökorraldus
 
-- Kas prototüüpimise töövahend toetab mobiilivaate loomist ja kasutajakatset?
-- Kuidas uurida neljanda klassi õpilaste vajadusi, sest esialgne küsitlus neid ei hõlmanud?
-- Kuidas koguda lisatõendeid õppimise planeerimise vajaduse kohta?
-- Milline prototüübi ulatus on tähtajaks realistlik?
-
-## Allikas
-
-Kursuse rühmatöö etapid ja tähtajad: [Õpikeskkonnad ja võrgustatud õpe – ülesanded](https://opikeskkonnad.ee/ulesanded/). Kuupäevad tuleb uuendada, kui õppejõud muudab ajakava.
+- Vahe-eesmärgi tähtaeg on iga teise nädala lõpp.
+- Õpetaja määrab kalendritähtajad kursuse alguses ja lisab need GitHubi Milestone’idesse.
+- Esitage etapi tulemus ka siis, kui see on mustand; tagasiside aitab järgmise etapiga edasi minna.
+- Kui ajakava muutub, põhjendage muudatust Issue’is ja tahvlil.
+- Vaadake [GitHubi töökorralduse juhendit](./githubi-tootamise-juhend.md).
