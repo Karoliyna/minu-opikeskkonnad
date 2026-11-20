@@ -20,7 +20,7 @@ Prototüüp on kavand. Taustauuringus õpilased tõid esile keskkondade leidmise
 | Persoonad | Tehtud — Markus ja Eliise |
 | Stsenaariumid | Tehtud — neli kasutusstsenaariumi |
 | Prototüüp | Esmane versioon valmis; järgmine samm on selle vastavuse ülevaatamine ja testimine |
-| Töövahendite võrdlus, prototüübi testimine ja esitlus | Täpsustamisel / järgmised tööd |
+| Töövahendite võrdlus, prototüübi testimine ja esitlus | Järgmised tööd; täpne seis kinnitada rühmas |
 
 ## Dokumentatsioon
 
@@ -28,15 +28,17 @@ Prototüüp on kavand. Taustauuringus õpilased tõid esile keskkondade leidmise
 - [Persoonad](./WIKI/persoonad.md)
 - [Stsenaariumid](./WIKI/stsenaariumid.md)
 - [Ajakava](./WIKI/ajakava-%C3%BCldine.md)
+- [Sprindi ajakava](./WIKI/ajakava-sprindid.md)
 - [Planeeritavad ülesanded](./WIKI/planeeritavad-issued.md)
 - [Projekti dokumentatsiooni avaleht](./WIKI/README.md)
 
 ## Töökorraldus
 
-- [GitHubi ülesanded (Issues)](./issues)
-- [Projekti tahvel (Projects)](./projects)
+- [GitHubi ülesanded (Issues)](https://github.com/Karoliyna/minu-opikeskkonnad/issues)
+- [Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1)
+- [Tähtajad ehk sprindid (Milestones)](https://github.com/Karoliyna/minu-opikeskkonnad/milestones)
 
-Rühmas täpsustame ülesannete vastutajad ning ajakava. Uuendame tahvlit töö edenemisel.
+Rühmas täpsustame ülesannete vastutajad ning kuupäevad. Uuendame tahvlit töö edenemisel.
 
 ## Projekti piirid
 
