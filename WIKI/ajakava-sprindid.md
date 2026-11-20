@@ -1,110 +1,42 @@
-# Sprintide ajakava
+# Sprintide ajakava – Minu õpikeskkonnad
 
-Jaga projekt väiksemateks tööperioodideks ehk sprintideks. Iga sprint võiks keskenduda kindlale eesmärgile või tööetapile. Sprindid aitavad koondada tegevusi, mis tuleb teatud ajavahemikus ära teha. Nii saate tegeleda päriselt oluliste tegevustega ning jätta teised tegevused tahaplaanile. Näiteks võivad tööetapid olla: teema ja eesmärgi sõnastamine, digiloovtöö teema kinnitamine, testimine, kaitsmiseks ettevalmistumine jne.
+Allpool on aineülesande vahe-eesmärkide järgi jaotatud töö. Alguskuupäevi pole märgitud, sest neid pole antud; rühm saab lisada tegelikud tööpäevad ja vastutajad.
 
-**Sprinte on digiloovtöö jooksul neli:**  
-1. Teooriaga tutvumine, läbitöötamine ning teoreetilise osa koostamine
-2. Persoonad, stsenaariumid ja nende kinnitamine, prototüübi loomine Lo-FI
-3. Hi-Fi prototüübi loomine, lahenduse katsetamine
-4. HI-FI valmis prototüüp, ettevalmistus kaitsmiseks, kokkuvõtete tegemine
+## Sprint 1 – Taustauuring ja persoonad
 
-Loe rohkem sprintide kohta [Digiloovtöö õpikust](https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/sprindi-moiste-ja-selle-koht-digiloovtoos/)  
-Lisaks on sul alati võimalus toetuda [õpilase juhendile](../juhendid/juhend-õpilasele.md)
+- **Tähtaeg:** 30.10.2026
+- **Eesmärk:** mõista õpilaste vajadusi ning sõnastada kasutajate persoonad.
+- **Ülesanded:** taustauuring ja küsitluse tulemuste analüüs; persoonade koostamine.
+- **Seis:** tehtud.
+- **Tulemus:** 79 viienda ja kuuenda klassi õpilase vastuseid kajastav taustauuring; persoonad Markus ja Eliise.
 
-## Kuidas seda faili kasutada?
+## Sprint 2 – Stsenaariumid
 
-- pane igale sprindile nimi või number;
-- kirjelda lühidalt, mis on selle sprindi eesmärk;
-- lisa peamised ülesanded;
-- sprindi lõpus kirjuta, mis sai tehtud ja mis jäi pooleli.
+- **Tähtaeg:** 07.11.2026
+- **Eesmärk:** kirjeldada, kuidas persoonad õpikeskust kasutaksid.
+- **Ülesanded:** kasutusstsenaariumide koostamine; vajaduste ja prototüübi funktsioonide sidumine.
+- **Seis:** tehtud.
+- **Tulemus:** neli kasutusstsenaariumi.
 
-## Sprint 1
+## Sprint 3 – Töövahendi valik ja prototüübi ülevaatus
 
-### Periood
-- Algus:
-- Lõpp:
+- **Tähtaeg:** 20.11.2026 (töövahendi võrdlus; rühmas üle kinnitada)
+- **Eesmärk:** põhjendada prototüüpimise vahendi valikut ja kontrollida prototüübi seost varasema analüüsiga.
+- **Ülesanded:** töövahendite võrdlus; persoonade ja stsenaariumide kontroll valminud prototüübiga; planeerimisvajaduse täpsustamine.
+- **Seis:** prototüüp on olemas; võrdluse ja ülevaatuse seis täpsustada.
+- **Tulemus:** lisada võrdlus, prototüübi ülevaatuse tähelepanekud ja vajadusel uuendused.
 
-### Eesmärk
-Kirjuta siia, mida tahate selle sprindi lõpuks saavutada.
+## Sprint 4 – Katsetamine ja esitlemine
 
-### Peamised ülesanded
-- [ ]
-- [ ]
-- [ ]
+- **Tähtaeg:** 05.12.2026
+- **Eesmärk:** täiendada prototüüpi kasutajate tagasiside põhjal ning tutvustada projekti tulemust.
+- **Ülesanded:** vajadusel koostada õpikeskuse skeem; katsetada prototüüpi sihtrühma õpilastega; teha põhjendatud parandused; koostada esitlus ja lõppkokkuvõte.
+- **Seis:** planeeritud.
+- **Tulemus:** katsetamise märkmed, ajakohane prototüüp, esitlus ja projekti lõppkokkuvõte.
 
-### Vastutajad
-- 
-- 
+## Rühma kokkulepped
 
-### Tulemus
-Mis sai selle sprindi jooksul valmis?
-
-### Märkused
-Mis läks hästi? Mis vajab muutmist?
-
-
-## Sprint 2
-
-### Periood
-- Algus:
-- Lõpp:
-
-### Eesmärk
-
-### Peamised ülesanded
-- [ ]
-- [ ]
-- [ ]
-
-### Vastutajad
-- 
-- 
-
-### Tulemus
-
-### Märkused
-
-
-
-## Sprint 3
-
-### Periood
-- Algus:
-- Lõpp:
-
-### Eesmärk
-
-### Peamised ülesanded
-- [ ]
-- [ ]
-- [ ]
-
-### Vastutajad
-- 
-- 
-
-### Tulemus
-
-### Märkused
-
-
-## Sprint 4
-
-### Periood
-- Algus:
-- Lõpp:
-
-### Eesmärk
-
-### Peamised ülesanded
-- [ ]
-- [ ]
-- [ ]
-
-### Vastutajad
-- 
-- 
-
-### Tulemus
-
-### Märkused
+- **Vastutajad:** täpsustada rühmas ja lisada GitHubi issue’dele.
+- **Tegelikud alguskuupäevad:** lisada vajadusel.
+- **Edenemise jälgimine:** [GitHubi Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1).
+- **Prototüüp:** https://52fe04b3-d262-4f6f-8f2b-8e88ba90e257.web.bilt.me/
