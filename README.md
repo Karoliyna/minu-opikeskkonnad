@@ -1,47 +1,60 @@
-# Minu õpikeskkonnad
+# Õpilaste loovtöö: Minu õpikeskkonnad
 
-**II kooliastme õpilase personaalse õpikeskuse kavandamine ja prototüüp**
+## Sinu ülesanne
 
-Meie rühmatöö eesmärk on kavandada 5.–6. klassi õpilastele mobiilne õpikeskus, mis aitab leida õppeainete digikeskkondi ja nende linke ning planeerida koolitöid. Projekt lähtub taustauuringust, õpilaste persoonadest ja kasutusstsenaariumidest.
+Tööta 2–3-liikmelises rühmas ja kavanda **„Minu õpikeskkonnad“** – rakendus või klikitav prototüüp, mis aitab 5.–6. klassi õpilasel leida õppeainete digikeskkondi ning hoida järge kodutöödel ja tähtaegadel.
 
-**Rühm:** [Liis Enson](https://informaatikaopetajaliis.wordpress.com/avaleht/), [Getter Hiiesalu](https://getterimagistriope.wordpress.com/), [Jane Helandi](https://janeinformaatika.lovable.app/) ja Karoliyna Pekkenen.
+**Lähteküsimus:** kuidas teha nii, et õpilane leiaks vajaliku õppimise digivahendi kiiresti ja teaks, mis koolitöö vajab järgmisena tegemist?
 
-## Prototüüp
+Teie töö ei pea olema päris kasutajatega valmis tarkvaratoode. Loovtöö tulemus võib olla toimiv klikitav prototüüp koos selgituse, uurimistulemuste ja katsetamise põhjal tehtud parandustega.
 
-[Vaata valminud mobiilse õpikeskuse prototüüpi](https://52fe04b3-d262-4f6f-8f2b-8e88ba90e257.web.bilt.me/)
+## Miks seda projekti teeme?
 
-Prototüüp on kavand. Taustauuringus õpilased tõid esile keskkondade leidmise ja nimede meelespidamise raskusi. Paroolide salvestamist prototüübis ei kavandata ning automaatset eKooli või Stuudiumi ühendust ei eeldata.
+Hea digilahendus algab kasutaja vajaduse mõistmisest. Selle projekti käigus uurid, mida õpilased vajavad, kavandad lahenduse, lood prototüübi, küsid tagasisidet ja täiendad oma tööd. Õpid põhjendama valikuid ning tegema koostööd.
 
-## Projekti hetkeseis
+## Mida teie rühm esitab?
 
-| Etapp | Seis |
-|---|---|
-| Taustauuring | Tehtud — 79 viienda ja kuuenda klassi õpilase vastused on kokku võetud |
-| Persoonad | Tehtud — Markus ja Eliise |
-| Stsenaariumid | Tehtud — neli kasutusstsenaariumi |
-| Prototüüp | Esmane versioon valmis; ülevaatus ja kasutajakatse tuleb dokumenteerida |
-| Töövahendite võrdlus | Tähtaeg 4.12.2026 |
-| Esitlus ja lõppkokkuvõte | Koostatakse pärast prototüübi ülevaatamist ja katsetamist |
+- projekti eesmärgi ja probleemi kirjelduse;
+- lühikese kasutajauuringu ning järeldused;
+- vähemalt **kaks teie rühma loodud persoonat** uurimistulemuste põhjal (Wikis on üks näidis, mida ei tohi lihtsalt kopeerida);
+- kasutusstsenaariumid ja prototüübi nõuded;
+- informaatika ning **vähemalt kahe muu õppeaine** RÕK-i õpitulemused ja tõendid nende saavutamise kohta;
+- prototüübi töövahendi valiku põhjenduse, kavandi ja klikitava prototüübi;
+- kasutajakatse plaani, anonüümitud tähelepanekud ning nende põhjal tehtud parandused;
+- esitluse ja enese-/rühmapeegelduse.
 
-## Dokumentatsioon
+Õppeainete õpitulemused valige oma kooli ainekavast/RÕK-ist täpse sõnastusega ning kooskõlastage õpetajatega. Õpitulemused peavad kajastuma päriselt tehtud töös ja hindamises.
 
-- [Projekti kirjeldus ja taustauuring](./WIKI/projekti-kirjeldus.md)
-- [Persoonad](./WIKI/persoonad.md)
-- [Stsenaariumid](./WIKI/stsenaariumid.md)
-- [Ajakava](./WIKI/ajakava-%C3%BCldine.md)
-- [Sprindi ajakava](./WIKI/ajakava-sprindid.md)
-- [Planeeritavad ülesanded](./WIKI/planeeritavad-issued.md)
-- [Ülesannete tööjaotus ja prototüübi katsetamise näidis](./WIKI/prototüübi-testimine-ja-tööjaotus.md)
-- [Projekti dokumentatsiooni avaleht](./WIKI/README.md)
+## Töö ajakava
 
-## Töökorraldus
+Töö käib kuuenädalase asemel **kuue kahenädalase etapi** kaupa. Iga etapi lõpus esitate selle etapi kokkulepitud tulemuse. Õpetaja lisab kursuse alguskuupäeva põhjal täpsed kalendritähtajad.
 
-- [GitHubi ülesanded (Issues)](https://github.com/Karoliyna/minu-opikeskkonnad/issues) kirjeldavad töid ja nende eestvedajaid.
-- [Kanban-tahvel](https://github.com/users/Karoliyna/projects/1/views/1) näitab töö edenemist.
-- [Tähtajad ehk sprindid (Milestones)](https://github.com/Karoliyna/minu-opikeskkonnad/milestones) rühmitavad tööetappe.
+| Etapp | Aeg | Tähtajaks valmib |
+|---|---|---|
+| 1. Käivitamine ja siht | 1.–2. nädal | Rühm, probleem, eesmärk, rollid ning kolme õppeaine õpitulemuste esmane tabel |
+| 2. Kasutajate uurimine | 3.–4. nädal | Uurimisküsimused, küsitlus/intervjuu, vastuste kokkuvõte ja kasutajavajadused |
+| 3. Persoonad ja lahenduse plaan | 5.–6. nädal | Vähemalt kaks oma persoonat, stsenaariumid, funktsioonide nimekiri ja lihtne struktuuriskeem |
+| 4. Kavand ja prototüüp | 7.–8. nädal | Töövahendite võrdlus, ekraanikavandid ja prototüübi esimene klikitav versioon |
+| 5. Katsetamine ja parandamine | 9.–10. nädal | Katse päris kasutajatega, anonüümitud tulemused, parandatud prototüüp ja muudatuste põhjendused |
+| 6. Esitlus ja hindamine | 11.–12. nädal | Lõppversioon, esitlus, õpitulemuste tõendid ja rühma refleksioon |
 
-Tööjaotus on ettepanek. Ülesannete eest vastutajad kinnitab rühm ning uuendab tahvlit töö tegeliku edenemise järgi.
+Täpsem juhend ja iga etapi vahe-eesmärgid on [Wikis](./WIKI/README.md).
 
-## Projekti piirid
+## Kuidas GitHubis töötada?
 
-Töö tulemus on õpilastele mõeldud õpikeskuse prototüüp. Praegune küsitlus ei tõesta kõiki planeerimisvajadusi: ülesannete ja tähtaegade planeerimise kasutatavus tuleb õpilastega eraldi üle kontrollida. Küsitlusse ei kaasatud neljanda klassi õpilasi ning tulemustes ei ole vastuseid klassiti eristatud.
+1. Alustage Wiki juhendist ja vaadake üle [näidispersoona](./WIKI/persoonad.md).
+2. Valige **Issues** alt üks väike ülesanne. Kirjutage ülesande juurde vastutaja, tähtaeg ja valmimise tõend.
+3. Kasutage [Kanban-tahvlit](https://github.com/users/Karoliyna/projects/1/views/1): **Plaanis → Töös → Tagasisidestamisel → Valmis**.
+4. Siduge ülesanded sobiva kahenädalase **Milestone’iga**.
+5. Uuendage ülesandeid vähemalt kord nädalas. Kui plaan muutub, kirjutage Issue’i, mis muutus ja miks.
+
+## Projekti piirid ja turvalisus
+
+- Ärge koguge ega salvestage päris kasutajate paroole või isikuandmeid.
+- Kasutajauuringus küsige luba, selgitage eesmärki ja esitage vastused nimedeta.
+- Ärge väitke, et prototüüpi katsetati, kui katset tegelikult ei toimunud.
+- Prototüüp võib näidata, kuidas funktsioon töötaks; päris koolikontode ühendamine pole vajalik.
+
+## Alustamiseks
+
+Ava [õpilase Wiki](./WIKI/README.md), loe lähteülesannet, moodusta rühm ning vali Kanban-tahvlilt esimese etapi ülesanded.
